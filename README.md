@@ -2,4 +2,4 @@
 
 currently under development -
 
-react, vite, tailwindcss
+react, vite, tailwindcss, d3

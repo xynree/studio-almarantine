@@ -1,9 +1,12 @@
+import ForceTest from "./components/ForceTest"
+
 function App() {
 
   return (
-    <div className="flex p-9">
-        <h2 className="font-bold items-center"> studio almarantine -- placeholder 
+    <div className="flex flex-col gap-2 p-9 items-center">
+        <h2 className="font-bold"> studio almarantine -- placeholder 
         </h2>
+        <ForceTest/>
       </div>
 
   )
